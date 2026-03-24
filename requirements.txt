@@ -1,0 +1,7 @@
+opencv-python
+cvzone
+face_recognition
+numpy
+psycopg2-binary
+ultralytics
+mediapipe
